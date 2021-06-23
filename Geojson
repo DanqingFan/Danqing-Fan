@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "название места": "метро Площадь революции"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.619311809539795,
+          55.758726016893576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "название места": "Лублянская площадь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6269668340683,
+          55.75957720924986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "название места": "Китай-город"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.633280754089355,
+          55.75554444551137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "название места": "ГУМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.621564865112305,
+          55.754735427719325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "название места": "Кремль"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6167368888855,
+          55.75152334077308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "название места": "Никольская улица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61677980422973,
+          55.75312941730941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "название места": "Храм Василия Блаженного"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62315273284912,
+          55.75257393967195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "название места": "метро Площадь революции"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.621779441833496,
+          55.7567519035397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.619322538375854,
+            55.75871394310949
+          ],
+          [
+            37.626800537109375,
+            55.759504768070514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.63298034667969,
+            55.75554444551137
+          ],
+          [
+            37.62173652648926,
+            55.75486825268729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.621521949768066,
+            55.754819952751276
+          ],
+          [
+            37.616844177246094,
+            55.75168032861358
+          ],
+          [
+            37.623066902160645,
+            55.75264639372544
+          ],
+          [
+            37.616801261901855,
+            55.75327432321826
+          ],
+          [
+            37.621779441833496,
+            55.756896795991096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.626805901527405,
+            55.75950929564814
+          ],
+          [
+            37.63297498226165,
+            55.75554142681946
+          ]
+        ]
+      }
+    }
+  ]
+}
